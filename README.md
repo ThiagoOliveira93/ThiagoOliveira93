@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/ThiagoOliveira93">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveira93&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveira93&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveira93&layout=compact&langs_count=6&theme=merko"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,9 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+###  Me segue nas redes abaixo!
+
+
  <div> 
   <a href="https://www.instagram.com/thiagoool17?igsh=MTY2cjEzaDR5MHBnZw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="http://discordapp.com/users/1353544730272858177" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
